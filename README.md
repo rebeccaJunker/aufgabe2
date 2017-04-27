@@ -7,6 +7,13 @@ folgende Anleitung zur Hilfe genommen werden:
 
 * http://stackoverflow.com/questions/426026/git-on-windows-how-do-you-set-up-a-mergetool
 
+**Update**: Das unter obigem Link empfohlene Tool `p4merge` ist nur noch nach
+Registrierung bei dem Hersteller zu beziehen. Eine offene Alternative ist
+[meld](http://meldmerge.org/). Nach dessen Installation muss zusätzlich das
+Programmverzeichnis (z.B. `C:\Program Files (x86)\Meld`) dem `PATH` hinzugefügt
+werden. Danach ist `meld` verfügbar und ohne weitere Konfiguration als
+Standardtool gesetzt.
+
 ## Beschreibung
 
 Sowohl der Branch `master` als auch der Branch `feature/point-distance` haben
